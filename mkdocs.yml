@@ -1,0 +1,14 @@
+site_name: Trello Docs
+nav:
+  - Home:
+    - Introduction to Trello: index.md
+  - Getting Started:
+    - Creating a Board: instructions/create-board.md
+    - Adding Cards: instructions/add-cards.md
+    - Assigning Members: instructions/assign-members.md
+    - Using Labels & Filters: instructions/use-labels.md
+  - Additional Resources:
+    - Glossary: glossary.md
+    - Troubleshooting: troubleshooting.md
+theme:
+  name: material
