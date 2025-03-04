@@ -38,4 +38,4 @@ Throughout this guide, the following callouts will be used to highlight key info
 - **Caution:** Highlights potential mistakes or common issues.
 - **Warning:** Indicates actions that may lead to data loss or system issues.
 
-By following this guide, users will learn how to navigate Trello efficiently and **boost productivity with task management tools**.
+By following this guide, users will learn how to navigate Trello efficiently and boost productivity with task management tools.
