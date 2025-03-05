@@ -1,14 +1,34 @@
 site_name: Trello Docs
-nav:
-  - Home:
-    - Introduction to Trello: index.md
-  - Getting Started:
-    - Creating a Board: instructions/create-board.md
-    - Adding Cards: instructions/add-cards.md
-    - Assigning Members: instructions/assign-members.md
-    - Using Labels & Filters: instructions/use-labels.md
-  - Additional Resources:
-    - Glossary: glossary.md
-    - Troubleshooting: troubleshooting.md
 theme:
   name: material
+  palette:
+    primary: indigo
+    accent: deep purple
+  features:
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+    - navigation.expand
+    - content.admonitions
+  icon:
+    logo: material/clipboard-text
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+
+
+
+nav:
+  - Home:
+      - Introduction to Trello: index.md
+  - Getting Started:
+      - Adding Cards: instructions/add-cards.md
+      - Assigning Members: instructions/assign-members.md
+      - Using Labels & Filters: instructions/use-labels.md
+      - Automating Tasks with Butler: instructions/use-butler.md
+  - Additional Resources:
+      - Glossary: glossary.md
+      - Troubleshooting: troubleshooting.md
+  - About:
+      - About This Guide: readme.md

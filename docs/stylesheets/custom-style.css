@@ -1,0 +1,52 @@
+/* 🌆 Set a clean background color */
+body {
+    background-color: #F4F5F7; /* Soft light gray */
+    color: #333; /* Dark gray text */
+    font-family: "Roboto", sans-serif;
+}
+
+/* 📌 Style the main content area */
+.md-grid {
+    background-color: #ffffff; /* White content area */
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* 📌 Style the navigation sidebar */
+.md-sidebar {
+    background-color: #1E293B; /* Dark blue sidebar */
+}
+
+/* 📌 Improve nav links */
+.md-nav__link {
+    color: #E3E8EF !important; /* Light text for better contrast */
+}
+
+.md-nav__link--active {
+    background-color: #475569 !important; /* Darker blue highlight */
+}
+
+/* 🔹 Improve the hover effect on navigation */
+.md-nav__link:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 4px;
+}
+
+/* 📌 Make code blocks easier to read */
+.md-typeset pre {
+    background-color: #282C34; /* Darker background for code */
+    color: #E3E8EF; /* Light text */
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* 🔹 Improve links for better visibility */
+a {
+    color: #1976D2;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #F57C00;
+}
