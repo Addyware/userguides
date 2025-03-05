@@ -15,7 +15,7 @@ This troubleshooting guide provides solutions to common issues users may face wh
 2. Delete unused boards or upgrade to **Trello Premium**.  
 3. Visit [Trello Status](https://trello.status.atlassian.com/) to check if the site is down.  
 
-![Screenshot](../img/trello_board_error.png)
+![Screenshot](./img/trello_board_error.png)
 
 *Error message when exceeding the board limit in Trello.*  
 
@@ -32,7 +32,7 @@ This troubleshooting guide provides solutions to common issues users may face wh
 2. **Refresh** the page or log out and log back in.  
 3. Check with the **board admin** to ensure you have editing permissions.  
 
-![Screenshot](../img/trello_drag_and_drop_error.png)
+![Screenshot](./img/trello_drag_and_drop_error.png)
 
 *Trello's drag-and-drop feature not working due to read-only mode.*  
 
@@ -51,7 +51,7 @@ This troubleshooting guide provides solutions to common issues users may face wh
 2. Check your **spam/junk folder** for Trello emails.  
 3. Add **notifications@trello.com** to your email safe list.  
 
-![Screenshot](../img/trello_enable_notifications.png)
+![Screenshot](./img/trello_enable_notifications.png)
 
 *How to enable notifications in Trello settings.*  
 
