@@ -41,6 +41,6 @@ This guide employs the following conventions:
 
 Throughout this guide, special notes are highlighted:
 
-- **📌Note:** Provides additional insights or tips.
-- **⚠️Warning:** Highlights potential issues to be cautious of.
-- **🎯Success:** Indicates successful outcomes or best practices.
+- !!! note "Provides additional insights or tips."
+- !!! warning "Highlights potential issues to be cautious of."
+- !!! success "Indicates successful outcomes or best practices."

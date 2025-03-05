@@ -3,7 +3,7 @@
 ## Overview  
 **Butler** is Trello’s built-in automation tool that helps users **save time by automating repetitive tasks**.
 
-📌note "What is Butler?"
+!!! note "What is Butler?"
 
     Butler is Trello’s automation assistant that allows you to create rules, triggers, and actions without coding.
 
@@ -15,8 +15,9 @@
 3. Select **"Rules"** from the automation menu.  
 4. Click **"Create Rule"** to set up your first automation.  
 
-🔹 **PLACEHOLDER FOR SCREENSHOT**  
-📌 *Caption: "Opening the Butler Automation panel in Trello."*  
+![Screenshot](../img/trello_automation.png)
+
+*Opening the Butler Automation panel in Trello.*  
 
 ---
 

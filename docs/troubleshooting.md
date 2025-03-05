@@ -15,8 +15,9 @@ This troubleshooting guide provides solutions to common issues users may face wh
 2. Delete unused boards or upgrade to **Trello Premium**.  
 3. Visit [Trello Status](https://trello.status.atlassian.com/) to check if the site is down.  
 
-🔹 **PLACEHOLDER FOR SCREENSHOT**  
-📌 *Caption: "Error message when exceeding the board limit in Trello."*  
+![Screenshot](../img/trello_board_error.png)
+
+*Error message when exceeding the board limit in Trello.*  
 
 ---
 
@@ -31,10 +32,11 @@ This troubleshooting guide provides solutions to common issues users may face wh
 2. **Refresh** the page or log out and log back in.  
 3. Check with the **board admin** to ensure you have editing permissions.  
 
-🔹 **PLACEHOLDER FOR SCREENSHOT**  
-📌 *Caption: "Trello's drag-and-drop feature not working due to read-only mode."*  
+![Screenshot](../img/trello_drag_and_drop_error.png)
 
-🚨 **Warning:** If a board is in "View Only" mode, you won’t be able to move cards.  
+*Trello's drag-and-drop feature not working due to read-only mode.*  
+
+!!! warning "If a board is in "View Only" mode, you won’t be able to move cards."  
 
 ---
 
@@ -49,9 +51,10 @@ This troubleshooting guide provides solutions to common issues users may face wh
 2. Check your **spam/junk folder** for Trello emails.  
 3. Add **notifications@trello.com** to your email safe list.  
 
-🔹 **PLACEHOLDER FOR SCREENSHOT**  
-📌 *Caption: "How to enable notifications in Trello settings."*  
+![Screenshot](../img/trello_enable_notifications.png)
 
-📌 **Tip:** You can manually check notifications in **Trello’s bell icon (🔔) at the top-right corner**.  
+*How to enable notifications in Trello settings.*  
+
+!!! tip "You can manually check notifications in **Trello’s bell icon (🔔) at the top-right corner**."
 
 ---

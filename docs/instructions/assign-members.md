@@ -3,7 +3,7 @@
 ## Overview  
 Assigning team members to Trello cards ensures that **everyone knows their responsibilities**, while setting due dates helps **keep projects on schedule**.
 
-📌note "Why Assign Members?"
+!!! note "Why Assign Members?"
     
     Assigning members to a Trello card ensures tasks don’t get IGNORED.  
     The assigned user gets notified and can track their responsibilities.
@@ -17,10 +17,11 @@ Assigning team members to Trello cards ensures that **everyone knows their respo
 4. Select a team member from the list or search for their name.  
 5. Click on the member’s name to assign them to the card.  
 
-🔹 **PLACEHOLDER FOR SCREENSHOT**  
-📌 *Caption: "Assigning a team member to a Trello card."*  
+![Screenshot](../img/trello_add_member.png)
 
-🎯success "Team Collaboration Made Easy"
+*Assigning a team member to a Trello card.*  
+
+!!! success "Team Collaboration Made Easy"
     
     Once a member is assigned, they receive a Trello 🔔notification.  
     They will also see their assigned tasks under their profile.
@@ -33,8 +34,9 @@ Assigning team members to Trello cards ensures that **everyone knows their respo
 3. Click **"Save"** to confirm.  
 4. (Optional) Enable **"Set Reminder"** to receive a notification before the due date.  
 
-🔹 **PLACEHOLDER FOR SCREENSHOT**  
-📌 *Caption: "Setting a due date and enabling reminders for a Trello card."*  
+![Screenshot](../img/trello_due_date_reminder.png)
+
+*Setting a due date and enabling reminders for a Trello card.*  
 
 !!! warning "⏳ Missed Deadlines Can Cause Delays!"
     

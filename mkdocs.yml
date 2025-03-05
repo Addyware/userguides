@@ -28,3 +28,5 @@ nav:
       - Troubleshooting: troubleshooting.md
   - About:
       - About This Guide: readme.md
+markdown_extensions:
+  - admonition

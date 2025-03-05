@@ -3,7 +3,7 @@
 ## Overview  
 In Trello, **cards** represent individual tasks, ideas, or work items. They are the **core unit** of project management in Trello.
 
-📌note "What Are Trello Cards?"
+!!! note "What Are Trello Cards?"
     
     Trello cards act like Nigital Sticky Notes where you can assign tasks, track progress, and collaborate with team members.
 
@@ -16,8 +16,10 @@ In Trello, **cards** represent individual tasks, ideas, or work items. They are 
 4. Type the **task name** in the input box.  
 5. Click **Add card** to create the card.  
 
-🔹 **PLACEHOLDER FOR SCREENSHOT**  
-📌 *Caption: "Creating a new Trello card by entering a task name and clicking 'Add card'."*  
+![Screenshot](../img/trello_add_card_button.png)
+![Screenshot](../img/trello_add_card.png)
+
+*Creating a new Trello card by entering a task name and clicking 'Add card'.*
 
 ---
 
@@ -29,10 +31,13 @@ After creating a card, click on it to open the **Card Details View**, where you 
 **Set due dates** – Ensure deadlines are visible.  
 **Add labels** – Categorize tasks for easy filtering.  
 
-🔹 **PLACEHOLDER FOR SCREENSHOT**  
-📌 *Caption: "Customizing a Trello card by adding descriptions, attachments, and due dates."*  
+![Screenshot](../img/trello_description.png)
+![Screenshot](../img/trello_attachment.png)
+![Screenshot](../img/trello_description.png)
 
-⚠️warning "Don't Forget Due Dates!"
+*Customizing a Trello card by adding descriptions, attachments, and due dates.*  
+
+!!! warning "Don't Forget Due Dates!"
     
     If a task has a STRICT deadline, always set a DUE date so it doesn’t get overlooked.  
     Trello **only sends reminders** if a due date is set.

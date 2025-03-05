@@ -3,7 +3,7 @@
 ## Overview  
 Labels and filters in Trello help you **categorize tasks**, **prioritize work**, and **quickly find specific cards**. Labels add **color-coded tags** to cards, while filters allow you to view only the tasks that match specific criteria.
 
-📌note "Why Use Labels?"
+!!! note "Why Use Labels?"
     
     Labels make it easier to identify **task priorities** at a glance.  
     Example:  
@@ -21,8 +21,9 @@ Labels and filters in Trello help you **categorize tasks**, **prioritize work**,
 5. Name the label (e.g., "High Priority," "Waiting on Review") and select a color.  
 6. Click **Save** to apply the label.  
 
-🔹 **PLACEHOLDER FOR SCREENSHOT**  
-📌 *Caption: "Applying a new label to a Trello card."*  
+![Screenshot](../img/trello_label.png)
+
+*Applying a new label to a Trello card.*  
 
 ---
 
