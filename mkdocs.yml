@@ -3,33 +3,35 @@ theme:
   name: "material"
   palette:
     # Dark Mode
-      scheme: slate
-        toggle:
-          icon: material/weather-sunny
-          name: Dark mode
-        primary: green
-        accent: deep purple
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: green
+      accent: deep purple
 
     # Light Mode
-      scheme: default
-        toggle:
-          icon: material/weather-night
-          name: Light mode
-        primary: blue
-        accent: deep orange
-     primary: indigo
-     accent: deep purple
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent: deep orange
+
   features:
     - content.code.copy
     - content.code.annotate
     - content.tabs.link
     - navigation.expand
     - content.admonitions
+
   icon:
     logo: material/clipboard-text
+
   font:
     text: Roboto
     code: Roboto Mono
+
 nav:
   - Home:
       - Introduction to Trello: index.md
@@ -43,5 +45,6 @@ nav:
       - Troubleshooting: troubleshooting.md
   - About:
       - About This Guide: readme.md
+
 markdown_extensions:
   - admonition
