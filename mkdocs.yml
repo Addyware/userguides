@@ -1,6 +1,6 @@
-site_name: Trello Docs
+site_name: "Trello Docs"
 theme:
-  name: material
+  name: "material"
   palette:
     # Dark Mode
       scheme: slate
