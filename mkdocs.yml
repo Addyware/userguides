@@ -2,8 +2,23 @@ site_name: Trello Docs
 theme:
   name: material
   palette:
-    primary: indigo
-    accent: deep purple
+    # Dark Mode
+      scheme: slate
+        toggle:
+          icon: material/weather-sunny
+          name: Dark mode
+        primary: green
+        accent: deep purple
+
+    # Light Mode
+      scheme: default
+        toggle:
+          icon: material/weather-night
+          name: Light mode
+        primary: blue
+        accent: deep orange
+     primary: indigo
+     accent: deep purple
   features:
     - content.code.copy
     - content.code.annotate
