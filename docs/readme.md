@@ -36,15 +36,20 @@ This documentation is built using **MkDocs with the Material theme**, ensuring:
 
 ## 📂 Project Structure  
 ```
-userguides/
- ┣ docs/                  # Documentation source files
- ┃ ┣ stylesheets/         # Custom CSS styles
- ┃ ┃ ┗ custom-style.css   # Background & UI enhancements
- ┃ ┣ index.md             # Introduction to Trello
- ┃ ┣ glossary.md          # Glossary of Trello terms
- ┃ ┣ troubleshooting.md    # Common issues & fixes
- ┣ mkdocs.yml             # MkDocs configuration file
- ┣ README.md              # (THIS FILE) Project overview
+USERGUIDES/
+ ┣ docs/                    
+ ┃ ┣ img/                    
+ ┃ ┣ instructions/           
+ ┃ ┃ ┣ add-cards.md          
+ ┃ ┃ ┣ assign-members.md     
+ ┃ ┃ ┣ use-butler.md         
+ ┃ ┃ ┣ use-labels.md         
+ ┃ ┣ glossary.md             
+ ┃ ┣ index.md                
+ ┃ ┣ readme.md               
+ ┃ ┣ troubleshooting.md       
+ ┣ site/                     
+ ┣ mkdocs.yml                
 ```
 
 ---
